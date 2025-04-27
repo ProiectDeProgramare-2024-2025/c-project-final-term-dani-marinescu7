@@ -1,1 +1,2 @@
 5,Mountain Cabin,180000,90,2,1,No
+8,Suburban House,320000,150,4,2,Yes
