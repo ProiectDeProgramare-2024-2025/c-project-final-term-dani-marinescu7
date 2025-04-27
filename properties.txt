@@ -1,0 +1,10 @@
+1,Modern Apartment,120000,80,3,2,Yes
+2,Cozy House,250000,120,4,3,Yes
+3,Luxury Villa,750000,300,6,4,Yes
+4,Beachfront Condo,450000,120,3,2,Yes
+5,Mountain Cabin,180000,90,2,1,No
+6,Urban Studio,95000,40,1,1,No
+7,Penthouse Suite,1200000,200,5,3,Yes
+8,Suburban House,320000,150,4,2,Yes
+9,Ranch Estate,850000,500,7,5,Yes
+10,City Loft,200000,60,2,1,No
